@@ -13,8 +13,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
-  flutter_map: any
   latlong: ^0.6.1
 
 dev_dependencies:
